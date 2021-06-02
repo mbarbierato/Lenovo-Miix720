@@ -73,9 +73,12 @@ Then change:
 0x5D1D6       One Of Option: Enabled, Value (8 bit): 0x1 (default) {09 07 03 00 30 00 01}
 0x5D1DD     End One Of {29 02} 
 With ru.efi tool change on CpuSetup the registry 0x3C with 00 value
+![tgfx](./Screenshot/20150101014133.bmp)
 - DVMT
-	- With ru.efi tool change Total Gfx Mem 0xE0 with 03 
+	- With ru.efi tool change in SaSetup  change Total Gfx Mem 0xE0 with 03 
+![tgfx](./Screenshot/20150101014057.bmp)
 	- change Pre-Allocated 0xDF with 02 
+![tgfx](./Screenshot/20150101014103.bmp)
 
 ### SSDT Info
 ![ssdt](./Screenshot/ssdtscreen.png)
