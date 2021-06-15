@@ -43,6 +43,7 @@ EFI for Lenovo MIIX 720 with OpenCore 0.6.9 bootloader
 - [x] Broadcom BCM4360
 - [x] microSDXC Card Reader
 - [x] NVRAM
+- [ ]TrackPad (my trackpad it's broken and i've not tested)
 
 ### BIOS Settings:
 To start, choose "Load Defaults" .
